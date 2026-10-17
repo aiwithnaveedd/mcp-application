@@ -94,6 +94,4 @@ Distributed under the MIT License. See LICENSE for more information.
   <Elicitation label="Add an MIT License file content" query="Generate a standard MIT License file for my GitHub repository."/>
   <Elicitation label="Create a requirements.txt file" query="Generate a complete requirements.txt file for this Python MCP project."/>
 </ElicitationsGroup>
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
+ 
